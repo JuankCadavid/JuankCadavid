@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/46978099?s=400&u=cc503ffd369462f0225407d614544b10ff5ea4d6&v=4"  />
+  <img height="150" src="https://agromarketco.s3.amazonaws.com/leadership-vector-flat-style-concept-banner-icons-phrases-explaining-concept-leadership-dark-blue-background-vector-118124261-transformed+(1).jpeg"  />
 </div>
 
 ###
