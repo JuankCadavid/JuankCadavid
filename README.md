@@ -1,71 +1,71 @@
 <div align="center">
-  <img height="150" src="https://agromarketco.s3.amazonaws.com/leadership-vector-flat-style-concept-banner-icons-phrases-explaining-concept-leadership-dark-blue-background-vector-118124261-transformed+(1).jpeg"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c7a5b&text=Juan%20Carlos%20Cadavid&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Systems%20Engineer%20%C2%B7%20Cloud%20Architect%20%C2%B7%20Applied%20AI%20Lead&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Juan Carlos Cadavid banner" />
 </div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2C9A6B&center=true&vCenter=true&width=640&lines=Building+production+AI+with+Claude+%26+AWS+Bedrock;RAG+architectures+%C2%B7+Autonomous+agents;Creator+of+AKILI+%E2%80%94+spec-driven+dev+for+AI+agents;Agritech+%C2%B7+Cloud+%C2%B7+Technical+leadership" alt="Typing SVG" />
 </div>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-carlos-cadavid-ruiz-1115aa65/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jcadavid.com" target="_blank"><img src="https://img.shields.io/badge/jcadavid.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.npmjs.com/package/akili-specs" target="_blank"><img src="https://img.shields.io/npm/v/akili-specs?style=for-the-badge&logo=npm&label=akili-specs&color=CB3837" alt="akili-specs on npm" /></a>
+</p>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 👨🏻‍💻 About Me
 
-<h3 align="left">👨🏻‍💻  About Me</h3>
+Systems engineer from **Cali, Colombia 🇨🇴** with **15+ years** in software engineering, cloud architecture, applied AI and technical leadership. I enjoy turning complex problems into reliable products — especially where AI meets agriculture and research.
 
-###
+- 🌱 **Associate Team Leader, Technology Integration** — Innovation & Business Development Unit at the **Alliance of Bioversity International & CIAT (CGIAR)**
+- 🤖 Leading **AI solutions in production** with AWS Bedrock, Anthropic Claude, RAG architectures and autonomous agents
+- 🚀 Drove AI adoption across our software process: **100% team adoption**, **3x lower token consumption** at the same quality and **~40% faster delivery**
+- 🌾 Built RAG platforms like the **Risk Management Tool** and **IGAD**, the **Accelerate Tanzania** seed platform, and helped revamp the **CGIAR Reporting Tool** used by 1,000+ people worldwide
+- 🧩 **Founder & CTO of Akili** (since 2017)
+- 🤿 Off the keyboard: scuba diving, travel and the Google Developer Group community
 
-<p align="left">I am a seasoned systems engineer with a focus on database development and administration, holding a degree from Catolica University. Additionally, I have specialized knowledge in software development processes, acquired through studies at the University of San Buenaventura Cali.<br><br>Over the past 13 years, I have accumulated extensive experience in both software and hardware across diverse industries such as Commercial, Educational, Services, and Research. This diverse exposure has equipped me with a comprehensive perspective, enabling me to make informed decisions and contribute efficiently to company development.<br><br>In addition to my technical skills, I excel in project management, having successfully overseen various initiatives throughout my career. I am adept at implementing SCRUM methodologies with JIRA Software, ensuring efficient collaboration and streamlined workflows. This experience has not only enhanced project outcomes but also fostered a culture of agility and adaptability within the teams I've led.<br><br>My strengths include a proactive approach to learning, adept problem-solving skills, exceptional tolerance for working under pressure, and a remarkable ability to adapt to dynamic environments and conditions. I am a goal-oriented and disciplined professional, consistently seeking opportunities for personal and professional growth.<br><br>My skill set encompasses proficiency in utilizing tools such as JIRA (SCRUM), Notion, advanced Excel, SQL Server, Oracle DB, Tableau, Cguno (modules: commercial, financial, sales, inventories, payroll, and POS), SRH payroll, Freedom POS, Domain Servers, Power BI, and Linux (Ubuntu).</p>
+## 📦 Featured: AKILI
 
-###
+> **Spec-driven development methodology for AI agents.** Open source (MIT), with a CLI that works with Claude Code.
 
-<h3 align="left">🛠 Language and tools</h3>
+```bash
+npm install -g akili-specs
+```
 
-###
+## 🏅 Certifications
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified AI Practitioner" />
+  <img src="https://img.shields.io/badge/Google-Generative%20AI%20Leader-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Generative AI Leader" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code in Action" />
+</p>
 
-###
+## 🛠 Tech Stack
 
-<img src="https://raw.githubusercontent.com/JuankCadavid/JuankCadavid/output/snake.svg" alt="Snake animation" />
+**AI & Cloud**
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-4B5563?style=for-the-badge" alt="AI Agents" />
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+**Languages, frameworks & infrastructure**
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,ts,js,nodejs,angular,jest,docker,postgres,mysql,linux,ubuntu,git,githubactions&perline=13" alt="Tech stack icons" />
+</p>
+
+## 🔥 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuankCadavid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JuankCadavid&locale=en&mode=daily&theme=transparent&hide_border=true&ring=2C9A6B&fire=2C9A6B&currStreakLabel=2C9A6B&sideNums=2C9A6B&sideLabels=8B949E&dates=8B949E" height="190" alt="GitHub streak" />
 </div>
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JuankCadavid/JuankCadavid/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c7a5b" width="100%" alt="" />
